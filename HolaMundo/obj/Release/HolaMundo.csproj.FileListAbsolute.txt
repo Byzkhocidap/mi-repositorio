@@ -1,0 +1,8 @@
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\bin\Release\HolaMundo.exe.config
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\bin\Release\HolaMundo.exe
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\bin\Release\HolaMundo.pdb
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\obj\Release\HolaMundo.exe
+C:\Users\Byzkhocidap\Desktop\Programacion 101\HolaMundo\HolaMundo\obj\Release\HolaMundo.pdb
